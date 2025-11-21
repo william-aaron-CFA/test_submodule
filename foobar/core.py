@@ -3,3 +3,4 @@
 GLOBAL_1 = "This is a global string"
 GLOBAL_2 = 5
 GLOBAL_3 = 8
+GLOBAL_4 = 9
