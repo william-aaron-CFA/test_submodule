@@ -1,6 +1,2 @@
-#!/usr/bin/env /proj/sot/ska3/flight/bin/python
-
-GLOBAL_1 = "This is a global string"
-GLOBAL_2 = 5
-GLOBAL_3 = 8
-GLOBAL_4 = 9
+VAR1 = "This is a global string"
+VAR2 = 5
